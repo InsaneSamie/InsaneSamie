@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=insanesamie&label=Profile%20views&color=0e75b6&style=flat" alt="insanesamie" /> </p>
 
-- 🔭 I’m currently working on **Smart parking Project**
+- 🔭 I’m currently working on **Tournament Project**
 
 - 🌱 I’m currently learning **Machine Learning**
 
