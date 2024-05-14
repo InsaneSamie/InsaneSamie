@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **SDE, Machine Learning**
 
-- 📫 How to reach me **winnermandakani@gmail.com**
+- 📫 How to reach me **winnermmishra@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
 
